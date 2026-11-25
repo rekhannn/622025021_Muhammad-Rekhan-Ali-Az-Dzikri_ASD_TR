@@ -1,0 +1,19 @@
+# Abaikan berkas hasil kompilasi (sesuai aturan tugas)
+*.exe
+*.o
+*.out
+*.obj
+app
+
+# Abaikan folder output / build
+bin/
+obj/
+build/
+
+# Abaikan folder pengaturan IDE / Editor
+.vscode/
+.idea/
+
+# Abaikan file sampah sistem operasi
+Thumbs.db
+.DS_Store
