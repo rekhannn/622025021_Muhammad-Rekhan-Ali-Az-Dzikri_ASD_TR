@@ -1,0 +1,6 @@
+101|BRG01|Beras Premium 5kg|Sembako|68000.00|25
+102|BRG02|Minyak Goreng 2L|Sembako|34000.00|40
+103|BRG03|Gula Pasir 1kg|Sembako|16500.00|50
+104|BRG04|Kopi Bubuk 200g|Minuman|18000.00|30
+105|BRG05|Teh Celup Kotak|Minuman|8500.00|45
+106|BRG06|Sabun Mandi Cair|Kebersihan|22000.00|20

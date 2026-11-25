@@ -1,0 +1,12 @@
+6
+101|Beras Premium 5kg
+102|Minyak Goreng 2L
+103|Gula Pasir 1kg
+104|Kopi Bubuk 200g
+105|Teh Celup Kotak
+106|Sabun Mandi Cair
+EDGE 0 1
+EDGE 0 5
+EDGE 1 2
+EDGE 2 3
+EDGE 2 4
